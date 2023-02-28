@@ -1,1 +1,1 @@
-# man-madewaterfall.github.io
+# manmadewaterfall.github.io
